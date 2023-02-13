@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xIvTgHcs/PbsPAEJ2mRQ1u1b724nrD+VmuByeeMI4IDVrX7uFzbtsuO0+v7GFGAhS8aIw0fGEA1TIBJYzV0sPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Eemeli\\Desktop\\Project\\Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eemeli\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
